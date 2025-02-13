@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm SkqLiao</h1>
+# 👋 Hi, I'm SkqLiao  
 
-<h3 align="left">Oier and ACMer</h3>
+### 🏆 Competitive Programmer | OIer & ACMer  
 
-- NOIP 2017&2018 First Prize
-- ICPC 4🏅·3🥈·1🥉
-  - 46th ICPC: Jinan🥈, Shenyang🥈(3rd o(╥﹏╥)o）, EC Final🥉
-  - 47th ICPC: Xian🥈(1st o(╥﹏╥)o), Hefei🏅(finally!(\*\^▽\^\*))
-  - 49th ICPC: Shanghai🏅#10, Shenyang🏅#12, EC Final🏅#14(Almost WF ε=(´ο｀\*))))
+- **NOIP 2017 & 2018**: First Prize  
+- **ICPC Achievements**: 4🥇 · 3🥈 · 1🥉  
+
+  - **46th ICPC**: 🥈 Jinan, 🥈 Shenyang *(3rd place... so close! o(╥﹏╥)o)*, 🥉 EC Final  
+  - **47th ICPC**: 🥈 Xi'an *(1st place, but still... o(╥﹏╥)o)*, 🥇 Hefei *(finally! 🎉)*  
+  - **49th ICPC**: 🥇 Shanghai (#10), 🥇 Shenyang (#12), 🥇 EC Final (#14) (Almost WF... ε=(´ο｀\*))  
