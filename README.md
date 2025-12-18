@@ -1,1 +1,14 @@
+### Hi, I'm SkqLiiiao 👋
 
+**M.S. @ BIT CS** | **B.S. @ BIT Optics & Photonics**
+
+**Interests:** AI Infra @ Inference · Agent · Quantitative Trading
+
+**Experience:**
+
+- Competitive Programming: ICPC Regional 🥇×4, Asia East continent Final Final 🥇
+- Core Developer of KTransformers @ KVCache.AI: See our [SOSP 25' paper](https://dl.acm.org/doi/10.1145/3731569.3764843) and [Project](https://github.com/kvcache-ai/ktransformers) [![GitHub stars](https://img.shields.io/github/stars/kvcache-ai/ktransformers?style=social)](https://github.com/kvcache-ai/ktransformers)
+
+**Tech Stack:** Python · C++ · CUDA · Rust · Haskell · PHP
+
+**Language:** Chinese, English
