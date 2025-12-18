@@ -2,7 +2,7 @@
 
 **M.S. @ BIT CS** | **B.S. @ BIT Optics & Photonics**
 
-**Interests:** AI Infra @ Inference · LLM Agents · Diffusion Models · Quantitative Trading
+**Interests:** LLM inference · LLM Agents · Diffusion Models · Quantitative Trading
 
 **Experience:**
 
