@@ -1,10 +1,23 @@
 ### Hi, I'm SkqLiiiao 👋
 
-**M.S. @ BIT Computer Science** | **B.S. @ BIT Optics & Photonics**
+M.S. student at **BIT**, working on **LLM Inference** / **Harness Engineering** / **Quantitative Trading** / **Diffusion Models**.
 
-**Interests:** LLM inference · LLM Agents · Diffusion Models · Quantitative Trading
+---
 
-**Experience:**
+#### 🔧 Experience
 
-- Competitive Programming: ICPC Regional 🥇×4, Asia East Continent Final(EC-Final) 🥇
-- Core Dev of KTransformers @ KVCache.AI: See our [SOSP 25' paper](https://dl.acm.org/doi/10.1145/3731569.3764843) and [Project](https://github.com/kvcache-ai/ktransformers) [![GitHub stars](https://img.shields.io/github/stars/kvcache-ai/ktransformers?style=social)](https://github.com/kvcache-ai/ktransformers)
+**Core Developer @ [KVCache.AI](https://github.com/kvcache-ai)**
+
+- Contributor to [KTransformers](https://github.com/kvcache-ai/ktransformers) — heterogeneous LLM inference engine
+  [![GitHub stars](https://img.shields.io/github/stars/kvcache-ai/ktransformers?style=social)](https://github.com/kvcache-ai/ktransformers)
+- Publication: *KTransformers: Unleashing the Full Potential of CPU/GPU Hybrid Inference for MoE Models* — [SOSP 2025](https://dl.acm.org/doi/10.1145/3731569.3764843)
+
+#### 🎓 Education
+
+- M.S. in Computer Science & Technology, BIT
+- B.S. in Optics & Photonics, BIT
+
+#### 🏅 Competitive Programming
+
+- **ICPC Regional**: Gold ×4
+- **ICPC Asia East Continent Final**: Gold x1
