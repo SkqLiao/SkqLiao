@@ -19,5 +19,5 @@ M.S. student at **BIT**, working on **LLM Inference** / **Harness Engineering** 
 
 #### 🏅 Competitive Programming
 
-- **ICPC Regional**: Gold ×4
-- **ICPC Asia East Continent Final**: Gold x1
+- **ICPC Regional**: Gold ×3, Silver x3
+- **ICPC Asia East Continent Final**: Gold x1, Bronze x1
