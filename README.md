@@ -18,6 +18,6 @@ M.S. student, working on **LLM Inference** / **Harness Engineering** / **Quantit
 
 ### 🏁 Competitive Programming
 
-- **International Collegiate Programming Contest (ICPC)**:
+- **International Collegiate Programming Contest (ICPC)**
   - Regional: 🏅 ×3 🥈 x3
   - Asia East Continent Final (EC-Final): 🏅 x1 🥉 x1
