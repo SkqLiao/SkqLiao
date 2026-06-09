@@ -6,7 +6,7 @@ M.S. student, working on **LLM Inference** / **Harness Engineering** / **Quantit
 
 ### 🔧 Experience
 
-- **Core Developer @ [KVCache.AI](https://github.com/kvcache-ai)**
+- **Developer @ [KVCache.AI](https://github.com/kvcache-ai)**
   - Contributor to [KTransformers](https://github.com/kvcache-ai/ktransformers) — heterogeneous LLM inference engine
     [![GitHub stars](https://img.shields.io/github/stars/kvcache-ai/ktransformers?style=social)](https://github.com/kvcache-ai/ktransformers)
   - See our paper: *KTransformers: Unleashing the Full Potential of CPU/GPU Hybrid Inference for MoE Models* — [SOSP 2025](https://dl.acm.org/doi/10.1145/3731569.3764843)
